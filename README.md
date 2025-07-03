@@ -9,7 +9,7 @@ This project fine-tunes [`unsloth/gemma-3-4b-it`](https://huggingface.co/unsloth
 * Fine-tuning on \~76K OCR-aligned LaTeX samples
 * 4-bit quantization with `bitsandbytes` for low-resource training
 * Runs on free Google Colab (Tesla T4 GPU)
-* BLEU score improvement from \~68.2 → \~89.3 (placeholder)
+* BLEU score improvement from \~68.2 → \~89.3
 
 ---
 
