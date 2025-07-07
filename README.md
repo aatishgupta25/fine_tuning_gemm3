@@ -1,4 +1,4 @@
-## Image-to-LaTeX with Fine-Tuned Gemma 3B (QLoRA)
+## Image-to-LaTeX with Fine-Tuned Gemma 3 - 4B (QLoRA)
 
 This project fine-tunes [`unsloth/gemma-3-4b-it`](https://huggingface.co/unsloth/gemma-3-4b-it) on the [`linxy/LaTeX_OCR`](https://huggingface.co/datasets/linxy/LaTeX_OCR) dataset to improve image-to-LaTeX generation using parameter-efficient QLoRA training.
 
